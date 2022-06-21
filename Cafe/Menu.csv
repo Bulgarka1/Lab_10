@@ -1,0 +1,15 @@
+Position;Characteristic;Volume;Calories;In Stock;Price
+Green Tea;Drink;150ml;5;;90
+Black Tea;Drink;150ml;4;;90
+Berry Tea;Drink;200ml;5;;110
+Macchiato;Drink;300ml;500;;150
+Latte;Drink;200ml;85;;220
+Espresso;Drink;70ml;9;;120
+Raf;Drink;250ml;45;;235
+Cheesecake;Dessert;150gr;270;12;175
+Meringue roll;Dessert;180gr;300;23;150
+Cookie;Dessert;100gr;500;15;110
+Mousse cake;Dessert;170gr;395;8;180
+Panna Cotta;Dessert;70gr;160;9;130
+Cherry pie;Dessert;130gr;280;6;120
+Tiramisu;Dessert;160gr;490;11;160
